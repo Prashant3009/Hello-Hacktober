@@ -1,5 +1,6 @@
+import static java.lang.System.out;
 public class Hello{
 public static void main(Strings args[]){
-System.out.printtln("Hello world!");
+out.println("Hello world!");
 }
 }
